@@ -1,0 +1,10 @@
+# Ignore large model weight files
+*.pt
+*.onnx
+
+# Ignore raw video tracking feeds
+*.mp4
+
+# Ignore local system caching folders
+__pycache__/
+.env
